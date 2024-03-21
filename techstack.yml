@@ -1,0 +1,264 @@
+repo_name: netguycode/wp-marketpress
+report_id: 212ae83df2a98f8115c25b9af9f2a165
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-21T20:37:29+00:00'
+requested_by: av3nger
+provider: github
+branch: master
+detected_tools_count: 20
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/netguycode/wp-marketpress
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/netguycode/wp-marketpress
+  detection_source: Repo Metadata
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/netguycode/wp-marketpress
+  detection_source: Repo Metadata
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/netguycode/wp-marketpress/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Anton Vanyukov
+  last_updated_on: 2017-07-13 06:59:09.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 1.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/netguycode/wp-marketpress/blob/master/includes/wpmudev-metaboxes/ui/select2/bower.json
+  detection_source: includes/wpmudev-metaboxes/ui/select2/bower.json
+  last_updated_by: Jonathan Cowher
+  last_updated_on: 2014-05-19 18:20:54.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/netguycode/wp-marketpress
+  detection_source: Repo Metadata
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  version: 1.0.1
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: https://github.com/netguycode/wp-marketpress/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Anton Vanyukov
+  last_updated_on: 2017-07-13 06:59:09.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/netguycode/wp-marketpress/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Cvetan
+  last_updated_on: 2015-09-15 15:55:27.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/netguycode/wp-marketpress
+  detection_source: Repo Metadata
+- name: grunt-cli
+  description: The grunt command line interface
+  package_url: https://www.npmjs.com/grunt-cli
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16021/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/netguycode/wp-marketpress/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Anton Vanyukov
+  last_updated_on: 2017-07-13 06:59:09.000000000 Z
+- name: grunt-contrib-clean
+  description: Clean files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-clean
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15939/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/netguycode/wp-marketpress/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Anton Vanyukov
+  last_updated_on: 2017-07-13 06:59:09.000000000 Z
+- name: grunt-contrib-compress
+  description: Compress files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-compress
+  version: 1.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16797/default_661bbd7f9556b6c5c0b8be11cd13e1813fc5c977.png
+  detection_source_url: https://github.com/netguycode/wp-marketpress/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Anton Vanyukov
+  last_updated_on: 2017-07-13 06:59:09.000000000 Z
+- name: grunt-contrib-copy
+  description: Copy files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-copy
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16056/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/netguycode/wp-marketpress/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Anton Vanyukov
+  last_updated_on: 2017-07-13 06:59:09.000000000 Z
+- name: grunt-contrib-watch
+  description: Run predefined tasks whenever watched file patterns are added
+  package_url: https://www.npmjs.com/grunt-contrib-watch
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15932/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/netguycode/wp-marketpress/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Anton Vanyukov
+  last_updated_on: 2017-07-13 06:59:09.000000000 Z
+- name: grunt-postcss
+  description: Apply several post-processors to your CSS using PostCSS
+  package_url: https://www.npmjs.com/grunt-postcss
+  version: 0.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17951/default_e0b07170ab7d7ea66954ff35fdeaae5255c4c0aa.png
+  detection_source_url: https://github.com/netguycode/wp-marketpress/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Anton Vanyukov
+  last_updated_on: 2017-07-13 06:59:09.000000000 Z
+- name: grunt-sass
+  description: Compile Sass to CSS using node-sass
+  package_url: https://www.npmjs.com/grunt-sass
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16916/default_2e3ed47575edcaf407097e6171e3d4cb8681a6b3.png
+  detection_source_url: https://github.com/netguycode/wp-marketpress/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Anton Vanyukov
+  last_updated_on: 2017-07-13 06:59:09.000000000 Z
+- name: load-grunt-tasks
+  description: Load multiple grunt tasks using globbing patterns
+  package_url: https://www.npmjs.com/load-grunt-tasks
+  version: 3.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16062/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/netguycode/wp-marketpress/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Anton Vanyukov
+  last_updated_on: 2017-07-13 06:59:09.000000000 Z
+- name: components/jquery
+  description: JQuery JavaScript Library
+  package_url: https://packagist.org/components/jquery
+  version: 1.7.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/netguycode/wp-marketpress/blob/master/includes/wpmudev-metaboxes/ui/select2/composer.json
+  detection_source: includes/wpmudev-metaboxes/ui/select2/composer.json
+  last_updated_by: Jonathan Cowher
+  last_updated_on: 2014-05-19 18:20:54.000000000 Z
+- name: phenx/php-font-lib
+  description: A library to read
+  package_url: https://packagist.org/phenx/php-font-lib
+  version: '0.2'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/netguycode/wp-marketpress/blob/master/includes/addons/mp-pdf-invoice/vendors/dompdf/composer.json
+  detection_source: includes/addons/mp-pdf-invoice/vendors/dompdf/composer.json
+  last_updated_by: Hoang Ngo
+  last_updated_on: 2015-06-04 14:50:38.000000000 Z
+- name: robloach/component-installer
+  description: Allows installation of Components via Composer
+  package_url: https://packagist.org/robloach/component-installer
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/netguycode/wp-marketpress/blob/master/includes/wpmudev-metaboxes/ui/select2/composer.json
+  detection_source: includes/wpmudev-metaboxes/ui/select2/composer.json
+  last_updated_by: Jonathan Cowher
+  last_updated_on: 2014-05-19 18:20:54.000000000 Z
